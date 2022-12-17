@@ -3,6 +3,8 @@
     internal class Program
     {
         private static char[,] field;
+
+
         static void Main(string[] args)
         {
             Console.Write("Укажите размер поля по оси X: ");
